@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m @ParimalAutade
 A Passionate Data Scientist
-![DATASCIENTIST]()
+![DATASCIENTIST](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/what-is-data-science.jpg)
 ## 👀 Interests
 I’m interested in:
 - Playing with data
@@ -32,8 +32,9 @@ I’m looking to collaborate on:
 - [Link to Project](https://github.com/your-username/project2)
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://github.com/your-username/your-repo-name/blob/main/linkedin-logo.png)](https://www.linkedin.com/in/parimalautade)
+[[LinkedIn]](https://www.linkedin.com/in/parimalautade)]
 [![Email](https://github.com/your-username/your-repo-name/blob/main/email-logo.png)](mailto:parimalautade24@gmail.com)
+![DS](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/1.png)
 
 ## 😄 Pronouns
 - Her
