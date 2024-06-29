@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m @ParimalAutade
 A Passionate Data Scientist
-
+![DATASCIENTIST]()
 ## 👀 Interests
 I’m interested in:
 - Playing with data
