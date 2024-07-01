@@ -1,8 +1,7 @@
 
 # 👋 Hi, I’m @ParimalAutade
 A Passionate Data Scientist
-![DATASCIENTIST](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/what-is-data-science.jpg)
-## 👀 Interests
+
 I’m interested in:
 - Playing with data
 - Exploring data
