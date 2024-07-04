@@ -28,7 +28,7 @@ I’m looking to collaborate on:
 ### Project 1: Zomato Sentiment Analysis
 - Conducted sentiment analysis on Twitter data using natural language processing techniques.
 - Tools: Python, NLTK, Word2Vec, TFIDF
-- [Link to Project](https://github.com/your-username/project2)
+- [Link to Project](https://github.com/ParimalA24-DS/DATA-SCIENCE-INTERNSHIP-PROJECT)
 
 ## 📫 How to Reach Me
 [[LinkedIn]](https://www.linkedin.com/in/parimalautade)]
