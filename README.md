@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m @ParimalAutade
-A Passionate Data Scientist
+A Passionate about leveraging data in roles such as **Data Analyst**, **Business Analyst**, Data Engineer, and Favourite **Data Scientist**, with a focus on transforming complex data into actionable insights
 
 I’m interested in:
 - Playing with data
@@ -17,12 +17,14 @@ I’m interested in:
 - **Generative AI:** Currently learning
 
 ## 🌱 Learning
+- POWERBI 
 - Cloud Computing (AWS, Azure)
 - Generative AI
 
 ## 💞️ Collaboration
 I’m looking to collaborate on:
-- Project: Credit Risk Management using Python & SQL
+-  **1.Fraud Detection in Financial Transactions:**[DATASET](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
+- "2.Project: Credit Risk Management using Python & SQL
 
 ## 🏆 Featured Projects
 ### Project 1: Zomato Sentiment Analysis
