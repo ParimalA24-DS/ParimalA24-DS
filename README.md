@@ -45,4 +45,4 @@ I’m looking to collaborate on:
 - Cooking
 
 ## 🎉 Fun Fact
-Dedicated to finishing every task I start
+**"Dedicated to completing every task I start with full effort."**
