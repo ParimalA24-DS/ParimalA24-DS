@@ -1,25 +1,49 @@
 
 # 👋 Hi, I’m @ParimalAutade
-A Passionate about leveraging data in roles such as **Data Analyst**, **Business Analyst**, Data Engineer, and Favourite **Data Scientist**, with a focus on transforming complex data into actionable insights
+
+A passionate professional dedicated to leveraging data in roles such as **Data Analyst**, **Business Analyst**, **Data Engineer**, and my favorite, **Data Scientist**. I focus on transforming complex data into actionable insights to drive impactful decisions.
 
 I’m interested in:
 - Playing with data
 - Exploring data
 - Gaining insights from data
 
-## 🌟 Skills and Tools
-- **Machine Learning:** Regression, Classification, Clustering
-- **Data Analysis:** Pandas, NumPy, SQL, Microsoft Excel
-- **Data Visualization:** Matplotlib, Seaborn, Tableau
-- **Programming:** Python, MySQL
-- **Deep Learning:** TensorFlow, Keras, PyTorch
-- **Cloud Computing:** AWS, Azure
-- **Generative AI:** Currently learning
+**Machine Learning:** 
+  [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)](https://github.com/ParimalA24-DS)
+  [![Regression](https://img.shields.io/badge/-Regression-orange)](https://github.com/ParimalA24-DS)
+  [![Classification](https://img.shields.io/badge/-Classification-yellow)](https://github.com/ParimalA24-DS)
+  [![Clustering](https://img.shields.io/badge/-Clustering-blue)](https://github.com/ParimalA24-DS)
+  
+- **Data Analysis:** 
+  [![Pandas](https://img.shields.io/badge/-Pandas-black)](https://github.com/ParimalA24-DS)
+  [![NumPy](https://img.shields.io/badge/-NumPy-lightgrey)](https://github.com/ParimalA24-DS)
+  [![SQL](https://img.shields.io/badge/-SQL-red)](https://github.com/ParimalA24-DS)
+  [![Microsoft Excel](https://img.shields.io/badge/-Excel-green)](https://github.com/ParimalA24-DS)
+  
+- **Data Visualization:** 
+  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-blueviolet)](https://github.com/ParimalA24-DS)
+  [![Seaborn](https://img.shields.io/badge/-Seaborn-9cf)](https://github.com/ParimalA24-DS)
+  [![Tableau](https://img.shields.io/badge/-Tableau-ff69b4)](https://github.com/ParimalA24-DS)
+
+- **Programming:** 
+  [![Python](https://img.shields.io/badge/-Python-yellowgreen)](https://github.com/ParimalA24-DS)
+  [![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/ParimalA24-DS)
+  
+- **Deep Learning:** 
+  [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)](https://github.com/ParimalA24-DS)
+  [![Keras](https://img.shields.io/badge/-Keras-red)](https://github.com/ParimalA24-DS)
+  [![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey)](https://github.com/ParimalA24-DS)
 
 ## 🌱 Learning
-- **POWER BI**
-- Cloud Computing (AWS, Azure)
-- Generative AI
+- **POWER BI**: 
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)
+  
+- **Cloud Computing (AWS, Azure)**:
+  ![AWS](https://img.shields.io/badge/-AWS-orange)
+  ![Azure](https://img.shields.io/badge/-Azure-blue)
+  
+- **Generative AI**:
+  ![Generative AI](https://img.shields.io/badge/-Generative%20AI-blueviolet)
 
 ## 💞️ Collaboration
 I’m looking to collaborate on:
@@ -41,8 +65,6 @@ I’m looking to collaborate on:
 
 [![DS](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/1.png)](https://github.com/ParimalA24-DS/ParimalA24-DS)
 
-[![LinkedIn](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/linkedin-logo.png)](https://www.linkedin.com/in/parimalautade)
-[![Email](https://github.com/your-username/your-repo-name/blob/main/email-logo.png)](mailto:parimalautade24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parimalautade)](https://www.linkedin.com/in/parimalautade)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parimalautade24@gmail.com)
@@ -56,7 +78,7 @@ I’m looking to collaborate on:
 - **Cooking**
 
 ## 🏆 Achievements
-- **2x Top LinkedIn Voice**
+- **2x Top LinkedIn Voice** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parimalautade)](https://www.linkedin.com/in/parimalautade)
 - **5th Finalist in International Paper Publications**
 - **Naukri Badge in SQL**
 
