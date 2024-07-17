@@ -17,7 +17,7 @@ I’m interested in:
 - **Generative AI:** Currently learning
 
 ## 🌱 Learning
-- POWERBI 
+- POWER BI 
 - Cloud Computing (AWS, Azure)
 - Generative AI
 
@@ -31,6 +31,11 @@ I’m looking to collaborate on:
 - Conducted sentiment analysis on Twitter data using natural language processing techniques.
 - Tools: Python, NLTK, Word2Vec, TFIDF
 - [Link to Project](https://github.com/ParimalA24-DS/DATA-SCIENCE-INTERNSHIP-PROJECT)
+- 
+### Project 2: Fraud Detection in Financial Transactions:
+- Conducted sentiment analysis on Twitter data using natural language processing techniques.
+- Tools: Python,SQL,Scikit,Matplotlib,Seaborn
+- [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
 ## 📫 How to Reach Me
 [[LinkedIn]](https://www.linkedin.com/in/parimalautade)]
