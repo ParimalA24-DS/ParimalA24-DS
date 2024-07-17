@@ -17,7 +17,7 @@ I’m interested in:
 - **Generative AI:** Currently learning
 
 ## 🌱 Learning
-- POWER BI 
+- **POWER BI**
 - Cloud Computing (AWS, Azure)
 - Generative AI
 
@@ -38,16 +38,27 @@ I’m looking to collaborate on:
 - [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
 ## 📫 How to Reach Me
-[[LinkedIn]](https://www.linkedin.com/in/parimalautade)]
+
+[![DS](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/1.png)](https://github.com/ParimalA24-DS/ParimalA24-DS)
+
+[![LinkedIn](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/linkedin-logo.png)](https://www.linkedin.com/in/parimalautade)
 [![Email](https://github.com/your-username/your-repo-name/blob/main/email-logo.png)](mailto:parimalautade24@gmail.com)
-![DS](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/1.png)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parimalautade)](https://www.linkedin.com/in/parimalautade)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parimalautade24@gmail.com)
+
 
 ## 😄 Pronouns
 - Her
 
 ## ⚡ Hobbies
-- Reading
-- Cooking
+- **Reading**: Best book ever read - *You Can Win* by Shiv Khera
+- **Cooking**
 
-## 🎉 Fun Fact
+## 🏆 Achievements
+- **2x Top LinkedIn Voice**
+- **5th Finalist in International Paper Publications**
+- **Naukri Badge in SQL**
+
+## 🎉 Fact About Me
 **"Dedicated to completing every task I start with full effort."**
