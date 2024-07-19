@@ -85,6 +85,21 @@ I’m looking to collaborate on:
 ## 🎉 Fact About Me
 **"Dedicated to completing every task I start with full effort."**
 ---
+# Parimal Autade's GitHub Profile
+
+## 📈 GitHub Stats
+
+![Parimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParimalA24-DS&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+
+![Parimal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParimalA24-DS&theme=radical)
+
+## 📊 GitHub Activity Graph
+
+[![Parimal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParimalA24-DS&theme=react-dark)](https://github.com/ParimalA24-DS)
+
+---
 ## 📊 Data Analysis in Action
 
 <p align="center">
