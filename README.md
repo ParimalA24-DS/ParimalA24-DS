@@ -99,6 +99,14 @@ I’m looking to collaborate on:
 
 [![Parimal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ParimalA24-DS&theme=react-dark)](https://github.com/ParimalA24-DS)
 
+## 🏆 GitHub Trophies
+
+[![Parimal's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ParimalA24-DS&theme=algolia)](https://github.com/ParimalA24-DS)
+
+## 💻 Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParimalA24-DS&layout=compact&theme=radical)](https://github.com/ParimalA24-DS)
+
 ---
 ## 📊 Data Analysis in Action
 
