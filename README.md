@@ -85,8 +85,9 @@ I’m looking to collaborate on:
 ![GitHub Followers](https://img.shields.io/github/followers/ParimalA24-DS?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/ParimalA24-DS?label=Stars&style=social)
 [![Top LinkedIn Voice](https://img.shields.io/badge/Top_LinkedIn_Voice_2x-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/parimalautade)
-![5th Finalist International Paper Publications](https://img.shields.io/badge/5th_Finalist_International_Paper_Publications-green?style=flat)
 ![Naukri SQL Badge](https://img.shields.io/badge/Naukri_SQL_Badge-blue?style=flat&logo=naukri)
+[![5th Finalist International Paper Publications](https://img.shields.io/badge/5th_Finalist_International_Paper_Publications-green?style=flat)](https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/my%20achievememnt%20in%202012%20final%20paper.PNG)
+
 ---
 
 ## 🎉 Fact About Me
