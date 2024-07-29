@@ -2,7 +2,7 @@
 # 👋 Hi, I’m @ParimalAutade
 
 A **passionate** professional dedicated to leveraging data in roles such as **Data Analyst**, **Business Analyst**, **Data Engineer**, and my favorite, **Data Scientist**. I focus on transforming complex data into actionable insights to drive impactful decisions.
-<img align="right" alt="Data Analyst Woman" width="400" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
+<img align="right" alt="Data Analyst Woman" width="400" src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/DA.gif"/>
 
 I’m passionate about:
 - **Harnessing Data:** Transforming raw data into meaningful insights and solutions. 
