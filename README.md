@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m @ParimalAutade
+# <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/h.gif" width="30" align="left" alt="Waving Hand"> Hi, I’m @ParimalAutade <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/facesmile.gif" width="30" align="right" alt="Smiling Face">
 
 A **passionate** professional dedicated to leveraging data in roles such as **Data Analyst**, **Business Analyst**, **Data Engineer**, and my favorite, **Data Scientist**. I focus on transforming complex data into actionable insights to drive impactful decisions.
 <img align="right" alt="Data Analyst Woman" width="400" src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/DA.gif"/>
@@ -71,7 +71,7 @@ In this project, I performed a comprehensive financial loan analysis using Micro
 - **Chart and Dashboard Creation**: Developed various charts and dashboards to visualize key metrics.
 - **KPI Identification**: Identified and analyzed key performance indicators to assess financial health.
 - **Important Data Extraction**: Focused on extracting and highlighting crucial data points for better decision-making.
-- [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
+- [Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/tree/main/4.MICROSFT-EXCEL-DATA-ANALYST/1.Finance-DomainMsExcel-Dashboard)
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
