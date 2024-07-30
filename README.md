@@ -62,6 +62,16 @@ I’m looking to collaborate on:
 - Tools: Python,SQL,Scikit,Matplotlib,Seaborn
 - [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
+### Project 3: Financial Loan Analysis Using Microsoft Excel
+In this project, I performed a comprehensive financial loan analysis using Microsoft Excel. The key steps involved:
+- **Data Cleaning**: Processed raw data to remove inconsistencies and ensure accuracy.
+- **Feature Engineering**: Created and transformed features to enhance the analysis.
+- **Column Addition**: Added new columns to enrich the dataset.
+- **Pivot Table Creation**: Generated pivot tables for summarizing and aggregating data.
+- **Chart and Dashboard Creation**: Developed various charts and dashboards to visualize key metrics.
+- **KPI Identification**: Identified and analyzed key performance indicators to assess financial health.
+- **Important Data Extraction**: Focused on extracting and highlighting crucial data points for better decision-making.
+- [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
