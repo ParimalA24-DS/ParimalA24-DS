@@ -49,7 +49,7 @@ I’m passionate about:
 ## 💞️ Collaboration
 I’m looking to collaborate on:
 -  **1.Fraud Detection in Financial Transactions:**[DATASET](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
-- "2.Project: Credit Risk Management using Python & SQL
+- **2.Project: Credit Risk Management using SQL,Python,Power BI(real bank dataset)**
 
 ## 🏆 Featured Projects
 ### Project 1: Zomato Sentiment Analysis
