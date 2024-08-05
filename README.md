@@ -34,35 +34,30 @@ I’m passionate about:
   [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)](https://github.com/ParimalA24-DS)
   [![Keras](https://img.shields.io/badge/-Keras-red)](https://github.com/ParimalA24-DS)
   [![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey)](https://github.com/ParimalA24-DS)
-
-## 🌱 Learning
 - **POWER BI**: 
   ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)
   
+
+## 🌱 Learning
 - **Cloud Computing (AWS, Azure)**:
   ![AWS](https://img.shields.io/badge/-AWS-orange)
   ![Azure](https://img.shields.io/badge/-Azure-blue)
-  
 - **Generative AI**:
   ![Generative AI](https://img.shields.io/badge/-Generative%20AI-blueviolet)
+  ### Skills in Focus
+- **SQL**: Advanced query techniques and database management.(Using HackerRank and SQLzoo)
+- **Power BI**: Dashboard creation and data visualization.
+- **Excel**: Advanced data manipulation and visualization techniques.
+- **Data Analysis**: Applying analytical methods and tools to extract actionable insights from data using real dataset 
 
-## 💞️ Collaboration
+## 💞️ Collaboration and Team Projects 
 I’m looking to collaborate on:
 -  **1.Fraud Detection in Financial Transactions:**[DATASET](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
-- **2.Project: Credit Risk Management using SQL,Python,Power BI(real bank dataset)**
+- **2.Credit Risk Management using SQL,Python,Power BI(real bank dataset)**
 
 ## 🏆 Featured Projects
-### Project 1: Zomato Sentiment Analysis
-- Conducted sentiment analysis on Twitter data using natural language processing techniques.
-- Tools: Python, NLTK, Word2Vec, TFIDF
-- [Link to Project](https://github.com/ParimalA24-DS/DATA-SCIENCE-INTERNSHIP-PROJECT)
-- 
-### Project 2: Fraud Detection in Financial Transactions:
-- Conducted sentiment analysis on Twitter data using natural language processing techniques.
-- Tools: Python,SQL,Scikit,Matplotlib,Seaborn
-- [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
-### Project 3: Financial Loan Analysis Using Microsoft Excel
+### Project 1: Financial Loan Analysis Using Microsoft Excel
 In this project, I performed a comprehensive financial loan analysis using Microsoft Excel. The key steps involved:
 - **Data Cleaning**: Processed raw data to remove inconsistencies and ensure accuracy.
 - **Feature Engineering**: Created and transformed features to enhance the analysis.
@@ -72,6 +67,28 @@ In this project, I performed a comprehensive financial loan analysis using Micro
 - **KPI Identification**: Identified and analyzed key performance indicators to assess financial health.
 - **Important Data Extraction**: Focused on extracting and highlighting crucial data points for better decision-making.
 - [Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/tree/main/4.MICROSFT-EXCEL-DATA-ANALYST/1.Finance-DomainMsExcel-Dashboard)
+- ### Project 2: Fraud Detection in Financial Transactions:
+- Conducted sentiment analysis on Twitter data using natural language processing techniques.
+- Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
+- [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
+
+- ### Project 3: Walmart Sales Analysis using SQL
+- *Analyzed Walmart sales data to uncover key insights into sales performance, product trends, and branch performance.
+- **Tasks Performed**:
+  - Cleaned and preprocessed sales data to ensure accuracy and consistency.
+  - Created pivot tables to summarize sales data and identify top-performing branches and products.
+  - Generated visualizations and dashboards to present sales trends, key performance indicators (KPIs), and actionable insights.
+- **Insights Extracted**:
+  - Identified top-selling products and seasonal trends.
+  - Analyzed branch performance to determine high-performing and underperforming locations.
+  - Provided actionable recommendations for inventory management and sales strategies.
+- **[Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/MYSQL-DATA-ANALYST/III.MYSQL-PROJECTS-IMPORTANT/1.WALMART_SALES_ANALYSIS_PROJECT1/WALMARTSALESANALYSIS.sql)**
+
+- ### Project 4: Zomato Sentiment Analysis
+- Conducted sentiment analysis on Twitter data using natural language processing techniques.
+- Tools: Python, NLTK, Word2Vec, TFIDF
+- [Link to Project](https://github.com/ParimalA24-DS/DATA-SCIENCE-INTERNSHIP-PROJECT)
+- 
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
