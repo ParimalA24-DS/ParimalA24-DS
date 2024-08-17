@@ -56,32 +56,25 @@ I’m looking to collaborate on:
 - **2.Credit Risk Management using SQL,Python,Power BI(real bank dataset)**
 
 ## 🏆 Featured Projects
-
-### Project 1: Financial Loan Analysis Using Microsoft Excel
-In this project, I performed a comprehensive financial loan analysis using Microsoft Excel. The key steps involved:
-- **Data Cleaning**: Processed raw data to remove inconsistencies and ensure accuracy.
-- **Feature Engineering**: Created and transformed features to enhance the analysis.
-- **Column Addition**: Added new columns to enrich the dataset.
-- **Pivot Table Creation**: Generated pivot tables for summarizing and aggregating data.
-- **Chart and Dashboard Creation**: Developed various charts and dashboards to visualize key metrics.
-- **KPI Identification**: Identified and analyzed key performance indicators to assess financial health.
-- **Important Data Extraction**: Focused on extracting and highlighting crucial data points for better decision-making.
+# Financial Loan Analysis Using Microsoft Excel
+This project involves:
+- **Data Preparation & Feature Engineering**: Cleaned data, added new columns, and transformed features for a detailed analysis.
+- **Visualization & KPI Analysis**: Created pivot tables, charts, and dashboards to visualize metrics and identify key performance indicators.
+- **Decision Support**: Extracted critical data points to aid financial decision-making.
 - [Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/tree/main/4.MICROSFT-EXCEL-DATA-ANALYST/1.Finance-DomainMsExcel-Dashboard)
 - ### Project 2: Fraud Detection in Financial Transactions:
 - Conducted sentiment analysis on Twitter data using natural language processing techniques.
 - Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
 - [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
-- ### Project 3: Walmart Sales Analysis using SQL
-- *Analyzed Walmart sales data to uncover key insights into sales performance, product trends, and branch performance.
-- **Tasks Performed**:
-  - Cleaned and preprocessed sales data to ensure accuracy and consistency.
-  - Created pivot tables to summarize sales data and identify top-performing branches and products.
-  - Generated visualizations and dashboards to present sales trends, key performance indicators (KPIs), and actionable insights.
-- **Insights Extracted**:
-  - Identified top-selling products and seasonal trends.
-  - Analyzed branch performance to determine high-performing and underperforming locations.
-  - Provided actionable recommendations for inventory management and sales strategies.
+-### Project 3: Walmart Sales Analysis using SQL
+- **Objective**: Uncovered insights into sales performance, product trends, and branch efficiency.
+- **Key Tasks**:
+  - Cleaned and summarized sales data to highlight top products and branches.
+  - Visualized sales trends and KPIs through dashboards.
+- **Insights**: 
+  - Identified top-selling items and seasonal trends.
+  - Analyzed branch performance, offering recommendations for inventory and sales strategies.
 - **[Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/MYSQL-DATA-ANALYST/III.MYSQL-PROJECTS-IMPORTANT/1.WALMART_SALES_ANALYSIS_PROJECT1/WALMARTSALESANALYSIS.sql)**
 
 - ### Project 4: Zomato Sentiment Analysis
@@ -102,6 +95,7 @@ In this project, I performed a comprehensive financial loan analysis using Micro
 ## ⚡ Hobbies
 - **Reading**: Best book ever read - *You Can Win* by Shiv Khera
 - **Cooking**
+- **Chess**
 
 ## 🏆 Achievements🎉
 - **2x Top LinkedIn Voice** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parimalautade)](https://www.linkedin.com/in/parimalautade)
@@ -117,7 +111,7 @@ In this project, I performed a comprehensive financial loan analysis using Micro
 ---
 
 ## 🎉 Fact About Me
-**"Dedicated to completing every task I start with full effort."**
+**"Dedicated to completing every task I start with full effort."** **Data Detective**
 ---
 # Parimal Autade's GitHub Profile
 
