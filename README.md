@@ -25,17 +25,27 @@ I’m passionate about:
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-blueviolet)](https://github.com/ParimalA24-DS)
   [![Seaborn](https://img.shields.io/badge/-Seaborn-9cf)](https://github.com/ParimalA24-DS)
   [![Tableau](https://img.shields.io/badge/-Tableau-ff69b4)](https://github.com/ParimalA24-DS)
+  
+- **Microsoft Excel Skills:**
+[![Power Query](https://img.shields.io/badge/-Power%20Query-green)](https://github.com/ParimalA24-DS)
+[![Advanced Microsoft Excel](https://img.shields.io/badge/-Advanced%20Microsoft%20Excel-blue)](https://github.com/ParimalA24-DS)
+[![Power Pivot](https://img.shields.io/badge/-Power%20Pivot-orange)](https://github.com/ParimalA24-DS)
+[![Power Query](https://img.shields.io/badge/-Power%20Query-red)](https://github.com/ParimalA24-DS)
+- **POWER BI:**
+[![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)](https://github.com/ParimalA24-DS)
+[![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-blue)](https://github.com/ParimalA24-DS)
+[![Star & Snowflake Schema](https://img.shields.io/badge/-Star%20&%20Snowflake%20Schema-purple)](https://github.com/ParimalA24-DS)
+[![DAX](https://img.shields.io/badge/-DAX-red)](https://github.com/ParimalA24-DS)
+[![Power Query](https://img.shields.io/badge/-Power%20Query-green)](https://github.com/ParimalA24-DS)
 
 - **Programming:** 
   [![Python](https://img.shields.io/badge/-Python-yellowgreen)](https://github.com/ParimalA24-DS)
-  [![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/ParimalA24-DS)
-  
+  [![SQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/ParimalA24-DS)
+ 
 - **Deep Learning:** 
   [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)](https://github.com/ParimalA24-DS)
   [![Keras](https://img.shields.io/badge/-Keras-red)](https://github.com/ParimalA24-DS)
   [![PyTorch](https://img.shields.io/badge/-PyTorch-lightgrey)](https://github.com/ParimalA24-DS)
-- **POWER BI**: 
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)
   
 
 ## 🌱 Learning
@@ -45,10 +55,10 @@ I’m passionate about:
 - **Generative AI**:
   ![Generative AI](https://img.shields.io/badge/-Generative%20AI-blueviolet)
   ### Skills in Focus
-- **SQL**: Advanced query techniques and database management.(Using HackerRank and SQLzoo)
+- **SQL**: Advanced query techniques and database management. (Using HackerRank and SQLZOO, LeetCode)
 - **Power BI**: Dashboard creation and data visualization.
-- **Excel**: Advanced data manipulation and visualization techniques.
-- **Data Analysis**: Applying analytical methods and tools to extract actionable insights from data using real dataset 
+- **Microsoft Excel**: Advanced data manipulation and visualization techniques.
+- **Data Analysis**: Applying analytical methods and tools to extract actionable insights from data using a real dataset 
 
 ## 💞️ Collaboration and Team Projects 
 I’m looking to collaborate on:
@@ -67,7 +77,7 @@ This project involves:
 - Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
 - [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
--### Project 3: Walmart Sales Analysis using SQL
+- ### Project 3: Walmart Sales Analysis using SQL
 - **Objective**: Uncovered insights into sales performance, product trends, and branch efficiency.
 - **Key Tasks**:
   - Cleaned and summarized sales data to highlight top products and branches.
