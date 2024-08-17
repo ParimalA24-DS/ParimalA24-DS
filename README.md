@@ -108,7 +108,7 @@ This project involves:
 - **Chess**
 
 ## 🏆 Achievements🎉
-- **2x Top LinkedIn Voice** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parimalautade)](https://www.linkedin.com/in/parimalautade)
+- **3x Top LinkedIn Voice** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parimalautade)](https://www.linkedin.com/in/parimalautade)
 - **5th Finalist in International Paper Publications**
 - **Naukri Badge in SQL**
 --- 
