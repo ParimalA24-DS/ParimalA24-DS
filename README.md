@@ -73,7 +73,7 @@ This project involves:
 - **Decision Support**: Extracted critical data points to aid financial decision-making.
 - [Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/tree/main/4.MICROSFT-EXCEL-DATA-ANALYST/1.Finance-DomainMsExcel-Dashboard)
 - ### Project 2: Fraud Detection in Financial Transactions:
-- Conducted sentiment analysis on Twitter data using natural language processing techniques.
+-.
 - Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
 - [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
