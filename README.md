@@ -73,7 +73,6 @@ This project involves:
 - **Decision Support**: Extracted critical data points to aid financial decision-making.
 - [Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/tree/main/4.MICROSFT-EXCEL-DATA-ANALYST/1.Finance-DomainMsExcel-Dashboard)
 - ### Project 2: Fraud Detection in Financial Transactions:
--.
 - Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
 - [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 
@@ -87,11 +86,6 @@ This project involves:
   - Analyzed branch performance, offering recommendations for inventory and sales strategies.
 - **[Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/MYSQL-DATA-ANALYST/III.MYSQL-PROJECTS-IMPORTANT/1.WALMART_SALES_ANALYSIS_PROJECT1/WALMARTSALESANALYSIS.sql)**
 
-- ### Project 4: Zomato Sentiment Analysis
-- Conducted sentiment analysis on Twitter data using natural language processing techniques.
-- Tools: Python, NLTK, Word2Vec, TFIDF
-- [Link to Project](https://github.com/ParimalA24-DS/DATA-SCIENCE-INTERNSHIP-PROJECT)
-- 
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
