@@ -85,7 +85,11 @@ This project involves:
   - Identified top-selling items and seasonal trends.
   - Analyzed branch performance, offering recommendations for inventory and sales strategies.
 - **[Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/MYSQL-DATA-ANALYST/III.MYSQL-PROJECTS-IMPORTANT/1.WALMART_SALES_ANALYSIS_PROJECT1/WALMARTSALESANALYSIS.sql)**
-
+- 
+- ### Project 4 :S-Mart: E-commerce Sales Analytics Dashboard Project 2024
+- S-Mart, a local store in Pune, aims to optimize operations by analyzing customer purchasing patterns and sales performance. This project leverages Power BI to identify best-selling products, busiest shopping hours, and key customer demographics, helping S-Mart enhance inventory management, marketing strategies, and overall profitability.
+ - **S-Mart Store Ecommerce Sales Dashboard**
+ <img src="https://github.com/ParimalA24-DS/POWERBIDASHBOARDS2024/blob/main/3.Smart-Sales-PowerBi-Project/3.Smartstoreecommercesalesproject.PNG" width="300" alt="S-Mart Store Ecommerce Sales Dashboard">
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/ParimalA24-DS)
