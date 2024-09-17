@@ -1,20 +1,15 @@
 
 # <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/h.gif" width="30" align="left" alt="Waving Hand"> Hi, I’m @ParimalAutade <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/facesmile.gif" width="30" align="right" alt="Smiling Face">
 
-A **passionate** professional dedicated to leveraging data in roles such as **Data Analyst**, **Business Analyst**, **Data Engineer**, and my favorite, **Data Scientist**. I focus on transforming complex data into actionable insights to drive impactful decisions.
+**Passionate** professional dedicated to leveraging data in roles such as **Data Analyst** 📊, **Business Analyst** 📈, **Power BI Developer** 💻, **Data Engineer** 🔧, and my favorite, **Data Scientist** 🧑‍🔬. I focus on transforming complex data into actionable insights to drive impactful decisions.
+
 <img align="right" alt="Data Analyst Woman" width="400" src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/DA.gif"/>
 
 I’m passionate about:
 - **Harnessing Data:** Transforming raw data into meaningful insights and solutions. 
 - **Exploring Trends:** Identifying patterns and trends to drive strategic decisions.
 - **Data-Driven Storytelling:** Creating compelling visualizations that translate complex data into actionable narratives.
-
-**Machine Learning:** 
-  [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)](https://github.com/ParimalA24-DS)
-  [![Regression](https://img.shields.io/badge/-Regression-orange)](https://github.com/ParimalA24-DS)
-  [![Classification](https://img.shields.io/badge/-Classification-yellow)](https://github.com/ParimalA24-DS)
-  [![Clustering](https://img.shields.io/badge/-Clustering-blue)](https://github.com/ParimalA24-DS)
-  
+## Skills:
 - **Data Analysis:** 
   [![Pandas](https://img.shields.io/badge/-Pandas-black)](https://github.com/ParimalA24-DS)
   [![NumPy](https://img.shields.io/badge/-NumPy-lightgrey)](https://github.com/ParimalA24-DS)
@@ -24,6 +19,7 @@ I’m passionate about:
 - **Data Visualization:** 
   [![Matplotlib](https://img.shields.io/badge/-Matplotlib-blueviolet)](https://github.com/ParimalA24-DS)
   [![Seaborn](https://img.shields.io/badge/-Seaborn-9cf)](https://github.com/ParimalA24-DS)
+  [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)](https://github.com/ParimalA24-DS)
   [![Tableau](https://img.shields.io/badge/-Tableau-ff69b4)](https://github.com/ParimalA24-DS)
   
 - **Microsoft Excel Skills:**
@@ -31,6 +27,8 @@ I’m passionate about:
 [![Advanced Microsoft Excel](https://img.shields.io/badge/-Advanced%20Microsoft%20Excel-blue)](https://github.com/ParimalA24-DS)
 [![Power Pivot](https://img.shields.io/badge/-Power%20Pivot-orange)](https://github.com/ParimalA24-DS)
 [![Power Query](https://img.shields.io/badge/-Power%20Query-red)](https://github.com/ParimalA24-DS)
+[![Forecasting](https://img.shields.io/badge/-Forecasting-purple)](https://github.com/ParimalA24-DS)
+[![Macros/VBA](https://img.shields.io/badge/-Macros%20%26%20VBA-red)](https://github.com/ParimalA24-DS)
 - **POWER BI:**
 [![Power BI](https://img.shields.io/badge/-Power%20BI-yellow)](https://github.com/ParimalA24-DS)
 [![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-blue)](https://github.com/ParimalA24-DS)
@@ -41,7 +39,28 @@ I’m passionate about:
 - **Programming:** 
   [![Python](https://img.shields.io/badge/-Python-yellowgreen)](https://github.com/ParimalA24-DS)
   [![SQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/ParimalA24-DS)
- 
+  [![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/ParimalA24-DS)
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791)](https://github.com/ParimalA24-DS)
+  [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927)](https://github.com/ParimalA24-DS)
+  
+- **Business Analytical Skills:**
+[![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-blue)](https://github.com/ParimalA24-DS)
+[![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-green)](https://github.com/ParimalA24-DS)
+[![Requirements Gathering](https://img.shields.io/badge/-Requirements%20Gathering-orange)](https://github.com/ParimalA24-DS)
+[![Process Improvement](https://img.shields.io/badge/-Process%20Improvement-red)](https://github.com/ParimalA24-DS)
+[![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-lightgrey)](https://github.com/ParimalA24-DS)
+[![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-blue)](https://github.com/ParimalA24-DS)
+[![Data Interpretation](https://img.shields.io/badge/-Data%20Interpretation-orange)](https://github.com/ParimalA24-DS)
+[![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple)](https://github.com/ParimalA24-DS)
+[![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-yellow)](https://github.com/ParimalA24-DS)
+[![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-red)](https://github.com/ParimalA24-DS)
+
+- **Machine Learning:** 
+  [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-brightgreen)](https://github.com/ParimalA24-DS)
+  [![Regression](https://img.shields.io/badge/-Regression-orange)](https://github.com/ParimalA24-DS)
+  [![Classification](https://img.shields.io/badge/-Classification-yellow)](https://github.com/ParimalA24-DS)
+  [![Clustering](https://img.shields.io/badge/-Clustering-blue)](https://github.com/ParimalA24-DS)
+  
 - **Deep Learning:** 
   [![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)](https://github.com/ParimalA24-DS)
   [![Keras](https://img.shields.io/badge/-Keras-red)](https://github.com/ParimalA24-DS)
@@ -66,7 +85,7 @@ I’m looking to collaborate on:
 - **2.Credit Risk Management using SQL,Python,Power BI(real bank dataset)**
 
 ## 🏆 Featured Projects
-# Financial Loan Analysis Using Microsoft Excel
+- ### Project1.Financial Loan Analysis Using Microsoft Excel
 This project involves:
 - **Data Preparation & Feature Engineering**: Cleaned data, added new columns, and transformed features for a detailed analysis.
 - **Visualization & KPI Analysis**: Created pivot tables, charts, and dashboards to visualize metrics and identify key performance indicators.
@@ -75,7 +94,6 @@ This project involves:
 - ### Project 2: Fraud Detection in Financial Transactions:
 - Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
 - [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
-
 - ### Project 3: Walmart Sales Analysis using SQL
 - **Objective**: Uncovered insights into sales performance, product trends, and branch efficiency.
 - **Key Tasks**:
@@ -85,7 +103,6 @@ This project involves:
   - Identified top-selling items and seasonal trends.
   - Analyzed branch performance, offering recommendations for inventory and sales strategies.
 - **[Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/MYSQL-DATA-ANALYST/III.MYSQL-PROJECTS-IMPORTANT/1.WALMART_SALES_ANALYSIS_PROJECT1/WALMARTSALESANALYSIS.sql)**
-- 
 - ### Project 4 :S-Mart: E-commerce Sales Analytics Dashboard Project 2024
 - S-Mart, a local store in Pune, aims to optimize operations by analyzing customer purchasing patterns and sales performance. This project leverages Power BI to identify best-selling products, busiest shopping hours, and key customer demographics, helping S-Mart enhance inventory management, marketing strategies, and overall profitability.
 # Dashboards:
