@@ -106,6 +106,18 @@ This project involves:
 - ### Project 4 :S-Mart: E-commerce Sales Analytics Dashboard Project 2024
 - S-Mart, a local store in Pune, aims to optimize operations by analyzing customer purchasing patterns and sales performance. This project leverages Power BI to identify best-selling products, busiest shopping hours, and key customer demographics, helping S-Mart enhance inventory management, marketing strategies, and overall profitability.
 # Dashboards:
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; margin-right: 10px;">
+    <h3>Bank Customer Churn Analytics</h3>
+    <img src="https://github.com/ParimalA24-DS/POWERBIDASHBOARDS2024/blob/main/5.CustomerChurnAnalyticsinBanK/Customer%20churn%20Analysis2imp.PNG">
+  </div>
+  
+<div style="flex: 1;">
+    <h3>Stock Analysis: Adani Enterprises Ltd. (2024) Using Power BI</h3>
+    <img src="https://github.com/ParimalA24-DS/POWERBIDASHBOARDS2024/blob/main/Stock%20Analysis%3A%20Adani%20Enterprises%20Ltd.%20in%202024%20using%20Power%20BI/stockanalutcdb3imp.PNG" width="300" alt="Stock Analysis Dashboard">
+  </div>
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 10px;">
@@ -113,10 +125,7 @@ This project involves:
     <img src="https://github.com/ParimalA24-DS/POWERBIDASHBOARDS2024/blob/main/3.Smart-Sales-PowerBi-Project/3.Smartstoreecommercesalesproject.PNG" width="300" alt="S-Mart Store Ecommerce Sales Dashboard">
   </div>
 
-  <div style="flex: 1;">
-    <h3>Stock Analysis: Adani Enterprises Ltd. (2024) Using Power BI</h3>
-    <img src="https://github.com/ParimalA24-DS/POWERBIDASHBOARDS2024/blob/main/Stock%20Analysis%3A%20Adani%20Enterprises%20Ltd.%20in%202024%20using%20Power%20BI/stockanalutcdb3imp.PNG" width="300" alt="Stock Analysis Dashboard">
-  </div>
+  
 
 </div>
 
