@@ -1,7 +1,7 @@
 
 # <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/h.gif" width="30" align="left" alt="Waving Hand"> Hi, I’m @ParimalAutade <img src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/facesmile.gif" width="30" align="right" alt="Smiling Face">
 
-**Passionate** professional dedicated to leveraging data in roles such as **Data Analyst** 📊, **Business Analyst** 📈, **Power BI Developer** 💻, **Data Engineer** 🔧, and my favorite, **Data Scientist** 🧑‍🔬. I focus on transforming complex data into actionable insights to drive impactful decisions.
+**Passionate** professional dedicated to leveraging data in roles such as **Data Analyst** 📊,**MIS Analyst**  **Business Analyst** 📈, **Power BI Developer** 💻, **Data Engineer** 🔧, and my favorite, **Data Scientist** 🧑‍🔬. I focus on transforming complex data into actionable insights to drive impactful decisions.
 
 <img align="right" alt="Data Analyst Woman" width="400" src="https://github.com/ParimalA24-DS/ParimalA24-DS/blob/main/DSPROFILEIMAGES/DA.gif"/>
 
