@@ -91,10 +91,8 @@ This project involves:
 - **Visualization & KPI Analysis**: Created pivot tables, charts, and dashboards to visualize metrics and identify key performance indicators.
 - **Decision Support**: Extracted critical data points to aid financial decision-making.
 - [Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/tree/main/4.MICROSFT-EXCEL-DATA-ANALYST/1.Finance-DomainMsExcel-Dashboard)
-- ### Project 2: Fraud Detection in Financial Transactions:
-- Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
-- [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
-- ### Project 3: Walmart Sales Analysis using SQL
+- 
+- ### Project 2: Walmart Sales Analysis using SQL
 - **Objective**: Uncovered insights into sales performance, product trends, and branch efficiency.
 - **Key Tasks**:
   - Cleaned and summarized sales data to highlight top products and branches.
@@ -103,8 +101,11 @@ This project involves:
   - Identified top-selling items and seasonal trends.
   - Analyzed branch performance, offering recommendations for inventory and sales strategies.
 - **[Link to Project](https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/MYSQL-DATA-ANALYST/III.MYSQL-PROJECTS-IMPORTANT/1.WALMART_SALES_ANALYSIS_PROJECT1/WALMARTSALESANALYSIS.sql)**
-- ### Project 4 :S-Mart: E-commerce Sales Analytics Dashboard Project 2024
-- S-Mart, a local store in Pune, aims to optimize operations by analyzing customer purchasing patterns and sales performance. This project leverages Power BI to identify best-selling products, busiest shopping hours, and key customer demographics, helping S-Mart enhance inventory management, marketing strategies, and overall profitability.
+- ### Project 3 :S-Mart:  Sales Analytics Dashboard Project 2024
+- S-Mart, a local store in Pune, aims to optimize operations by analyzing customer purchasing patterns and sales performance. This project leverages Power BI to identify best-selling products, busiest shopping hours, and key customer demographics, helping S-Mart enhance inventory management, marketing strategies, and overall profitabilit
+-  ### Project 4: Fraud Detection in Financial Transactions:
+- Tools: Python,SQL,Scikit,Matplotlib,Seaborn,Machine Learning ,Evaluation 
+- [Link to Project](https://drive.google.com/file/d/1SjSUQ4VXdPcZUcMcrWjHujBtpLUPbFrU/view?usp=drive_link)
 # Dashboards:
 ## Financial Loan Analysis Dashboards
 <p align="center">
