@@ -130,12 +130,16 @@ This project presents a **financial loan analysis dashboard** built using Micros
 </p>
 
 ---
+## 📈 Stock Analysis: Adani Enterprises Ltd. (2024) Using Power BI 💹  
+<p align="center">
+  <img src="https://github.com/ParimalA24-DS/POWERBIDASHBOARDS2024/blob/main/Stock%20Analysis%3A%20Adani%20Enterprises%20Ltd.%20in%202024%20using%20Power%20BI/stockanalutcdb3imp.PNG" alt="Stock Analysis Dashboard" width="75%">
+</p>
 
-<div style="text-align: center;">
-  <h3>Stock Analysis: Adani Enterprises Ltd. (2024) Using Power BI</h3>
-  <img src="https://github.com/ParimalA24-DS/POWERBIDASHBOARDS2024/blob/main/Stock%20Analysis%3A%20Adani%20Enterprises%20Ltd.%20in%202024%20using%20Power%20BI/stockanalutcdb3imp.PNG" width="300" alt="Stock Analysis Dashboard">
-</div>
-
+---
+## 📊 E-Commerce Sales Analysis Dashboard 🛒  
+<p align="center">
+  <img src="https://github.com/ParimalA24-DS/DATA-ANALYST-WORK/blob/main/4.MICROSFT-EXCEL-DATA-ANALYST/EXCEL-PROJECT-2025/1.ECOMMERCESALESANALYTICS2025DB/ECOMMERCEDB1.PNG" alt="E-Commerce Sales Analysis Dashboard" width="75%">
+</p>
 
   
 
